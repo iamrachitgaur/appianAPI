@@ -1,0 +1,22 @@
+[
+  {
+  reasonid:1,
+  reason:"Face",
+  icon:"grin-alt-o"
+  },
+  {
+  reasonid:2, 
+  reason:"Body",
+  icon:"user"
+  },
+  {
+  reasonid:3, 
+  reason:"Breast", 
+  icon:"female"
+  },
+  {
+  reasonid:4, 
+  reason:"Skin & Hair",
+  icon:"allergies"
+  }
+]
