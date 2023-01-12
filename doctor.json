@@ -1,0 +1,24 @@
+[
+    {
+        "updatedby": 1,
+        "updateddate": "2022-12-18T12:29:36Z",
+        "createdby": 1,
+        "creationdate": "2022-12-18T12:27:27Z",
+        "pincode": 400610,
+        "state": "maharashtra",
+        "city": "thane",
+        "landmark": "Hiranandani",
+        "addressline2": "",
+        "addressline1": "thane",
+        "alternatephone": "",
+        "phone": "9876543210",
+        "profilepic": "5190",
+        "overallexperience": "15 Years",
+        "additionalqualification": "Plastic Surgery",
+        "qualification": "MD",
+        "lastname": "Thakre",
+        "middlename": null,
+        "firstname": "Dr. Mak",
+        "doctorid": 1
+    }
+]
