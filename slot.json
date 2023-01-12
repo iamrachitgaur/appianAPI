@@ -1,0 +1,108 @@
+{
+    "success": true,
+    "parameters": {},
+    "results": [
+        [
+            {
+                "clinicId": 1,
+                "doctorId": 1,
+                "availableSlot": "09:00 AM"
+            },
+            {
+                "clinicId": 1,
+                "doctorId": 1,
+                "availableSlot": "09:15 AM"
+            },
+            {
+                "clinicId": 1,
+                "doctorId": 1,
+                "availableSlot": "09:30 AM"
+            },
+            {
+                "clinicId": 1,
+                "doctorId": 1,
+                "availableSlot": "09:45 AM"
+            },
+            {
+                "clinicId": 1,
+                "doctorId": 1,
+                "availableSlot": "10:00 AM"
+            },
+            {
+                "clinicId": 1,
+                "doctorId": 1,
+                "availableSlot": "10:15 AM"
+            },
+            {
+                "clinicId": 1,
+                "doctorId": 1,
+                "availableSlot": "10:30 AM"
+            },
+            {
+                "clinicId": 1,
+                "doctorId": 1,
+                "availableSlot": "10:45 AM"
+            },
+            {
+                "clinicId": 1,
+                "doctorId": 1,
+                "availableSlot": "11:00 AM"
+            },
+            {
+                "clinicId": 1,
+                "doctorId": 1,
+                "availableSlot": "11:15 AM"
+            },
+            {
+                "clinicId": 1,
+                "doctorId": 1,
+                "availableSlot": "11:30 AM"
+            },
+            {
+                "clinicId": 1,
+                "doctorId": 1,
+                "availableSlot": "11:45 AM"
+            },
+            {
+                "clinicId": 1,
+                "doctorId": 1,
+                "availableSlot": "06:00 PM"
+            },
+            {
+                "clinicId": 1,
+                "doctorId": 1,
+                "availableSlot": "06:15 PM"
+            },
+            {
+                "clinicId": 1,
+                "doctorId": 1,
+                "availableSlot": "06:30 PM"
+            },
+            {
+                "clinicId": 1,
+                "doctorId": 1,
+                "availableSlot": "06:45 PM"
+            },
+            {
+                "clinicId": 1,
+                "doctorId": 1,
+                "availableSlot": "07:00 PM"
+            },
+            {
+                "clinicId": 1,
+                "doctorId": 1,
+                "availableSlot": "07:15 PM"
+            },
+            {
+                "clinicId": 1,
+                "doctorId": 1,
+                "availableSlot": "07:30 PM"
+            },
+            {
+                "clinicId": 1,
+                "doctorId": 1,
+                "availableSlot": "07:45 PM"
+            }
+        ]
+    ]
+}
